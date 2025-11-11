@@ -41,3 +41,9 @@ The **geometry shader** expands it into a quad facing the camera using the view 
 vec3 right = vec3(view[0][0], view[1][0], view[2][0]) * size;
 vec3 up    = vec3(view[0][1], view[1][1], view[2][1]) * size;
 
+## Authors
+
+Developed by Khasangaliev Yeskendir and Batyrkhan Mukhatov — Astana IT University
+Course: Computer Graphics 
+Year: 2025
+
